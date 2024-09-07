@@ -1,3 +1,6 @@
+# TG频道
+资源搜索机器人
+https://t.me/teldiver_bot
 # 短剧api永久免费欢迎对接。
 ## 全网短剧API接口
 
